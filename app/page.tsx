@@ -12,7 +12,7 @@ export default function Page() {
       <main>
         <Hero />
         <TrendingAnimes />
-        <Categories />
+         <Categories />
         <TopRated />
       </main>
       <Footer />
